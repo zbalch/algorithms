@@ -12,4 +12,3 @@ function checkPalindrome(inputString) {
 }
 
 checkPalindrome('bolton'); //expected output: false
-
